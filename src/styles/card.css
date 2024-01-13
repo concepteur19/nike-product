@@ -1,0 +1,40 @@
+.card {
+  width: 340px;
+  height: 456px;
+  color: #828282;
+  background-color: #fff;
+  border-radius: 12px;
+  
+  
+}
+
+.image {
+  margin-top: 40px;
+  margin-bottom: -34px;
+  margin-left: -33px;
+  transition: transform 0.3s ease; 
+}
+
+.name-price {
+  margin-top: 33px;
+  margin-left: 33px;
+  margin-bottom: 55px;
+}
+
+.name {
+  font-family: Plus Jakarta Sans;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.price {
+  color: #828282;
+
+  font-family: Plus Jakarta Sans;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

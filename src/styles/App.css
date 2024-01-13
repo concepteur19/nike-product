@@ -1,0 +1,31 @@
+.App {
+  height: 100vh;
+  margin: 0;
+  background-image: url('../../public/images/Vector.png');
+  mask-repeat: no-repeat;
+
+  color: #FFF;
+  background-color: #343434;
+
+  font-family: Plus Jakarta Sans;
+}
+
+.nike-contain {
+  margin-left: 182px;
+  margin-top: 218px;
+  width: 1440px; 
+}
+
+.title {
+  color: #fff;
+  font-family: Plus Jakarta Sans;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.vector {
+  display: flex;
+  gap: 28px;
+}
